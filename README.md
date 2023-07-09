@@ -1,1 +1,1 @@
-This visualization file showcases the employee attrition with HR Analytics Dashboard on Power BI
+Developed an HR Attrition Dashboard with key metrics: employee count, education, attrition rate, average salary, and years of service. Interactive visualizations help track patterns, analyze trends, and identify factors contributing to attrition. Valuable insights for HR teams.
